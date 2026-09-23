@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alvaro-de-linares.still-chick-0947.chatgpt.site/sitemap.xml
